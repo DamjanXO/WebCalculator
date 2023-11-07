@@ -5,7 +5,7 @@ const testCases = [
 
 
   // Binary Operations (add, subtract, divide, multiply)
-    [-52, 'clear', 0],
+  [-52, 'clear', 0],
   [24, 'sum', 19, 'equalTo', 43], 
   [199.7, 'sum', -105.5, 'equalTo', 94.19999999999999],
   [-352.56, 'sum', 143.35, 'equalTo', -209.21],
