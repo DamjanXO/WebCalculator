@@ -1,4 +1,4 @@
-This repository contains end-to-end tests for the 3Shape project using Cypress. 
+This repository contains end-to-end tests for the WebCalculator project using Cypress. 
 
 ## Getting Started
 
