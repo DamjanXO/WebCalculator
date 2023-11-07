@@ -12,11 +12,11 @@ Follow these steps to set up and run the Cypress tests:
    - After downloading, open the Cypress application (Cypress.exe).
 
 3. **Select the 3Shape Folder**:
-   - Inside the Cypress app, select the "3Shape" folder.
+   - Inside the Cypress app, select the "WebCalculator" folder.
    ![Cypress1](https://github.com/DamjanXO/WebCalculator/assets/31394543/7a74caeb-9897-44ff-b6ff-d8db8c049080)
 
 4. **Choose E2E Testing**:
-   - Within the "3Shape" folder, select "e2e testing."
+   - Within the "WebCalculator" folder, select "e2e testing."
    ![Cypress2](https://github.com/DamjanXO/WebCalculator/assets/31394543/e761fee4-2827-4c18-a737-adcb924334e8)
 
 5. **Select Chrome for Testing**:
