@@ -29,3 +29,17 @@ Follow these steps to set up and run the Cypress tests:
 7. **Choose Test File**:
    - From the list of test files, click on "calculator.cy.js" to run your specific test.
    ![Cypress4](https://github.com/DamjanXO/WebCalculator/assets/31394543/93411d5d-acb4-4fd3-bae2-cdbedd2dc924)
+
+
+
+
+## Project Structure
+
+In this repository, you'll find the following files and folders:
+
+- `Calculator.cy.js`: This file serves as the primary test script.
+
+- `support` folder:
+  - `Commands.js`: Contains custom functions and commands used in the tests.
+  - `TestCases.js`: Serves as the file for organizing and structuring the test sequences.
+  - `TestData&Locators.js`: Stores test data and locators essential for test execution.
