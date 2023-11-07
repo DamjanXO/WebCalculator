@@ -24,6 +24,7 @@ Follow these steps to set up and run the Cypress tests:
 
 6. **Start E2E Testing in Chrome**:
    - Click on "Start E2E testing in Chrome" to begin your end-to-end tests.
+![cypress3](https://github.com/DamjanXO/WebCalculator/assets/31394543/4840a460-fd56-4b3c-b00f-4ec1409747c2)
 
 7. **Choose Test File**:
    - From the list of test files, click on "calculator.cy.js" to run your specific test.
